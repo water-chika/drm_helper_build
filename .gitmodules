@@ -7,3 +7,6 @@
 [submodule "hip_dummy"]
 	path = hip_dummy
 	url = https://github.com/water-chika/hip_dummy
+[submodule "hip_helper"]
+	path = hip_helper
+	url = https://github.com/water-chika/hip_helper
